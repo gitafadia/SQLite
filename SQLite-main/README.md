@@ -1,6 +1,5 @@
 # SQLite
  Tugas Workshop Mobile Applications 
 
-# Nama  : Sella Putri Sari
-# NIM   : E41200603
-# Gol   : A TIF BWS
+# Nama  : Gita Fadia Setyorini
+# NIM   : E41200971
